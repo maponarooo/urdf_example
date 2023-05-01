@@ -16,7 +16,7 @@
 
 
 ## 실행 방법
-1. 콜콘으로 패키지를 만듭니다.
+1. colcon 으로 패키지를 만듭니다.
 2. robot_state_launch 파일을 ros2 launch urdf_launch rsp.launch.py 로 실행합니다.
 3. 'ros2 run joint_state_publisher_gui joint_state_publisher_gui'와 함께 'joint_state_publisher_gui'를 실행합니다. 아직 설치하지 않은 경우 설치해야 할 수도 있습니다.
 4. 'rviz2'로 RViz 출시
