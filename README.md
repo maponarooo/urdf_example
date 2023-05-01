@@ -4,11 +4,17 @@
 이 문서에는 URDF 파일의 예와 이를 실행하기 위한 실행 스크립트가 포함되어 있습니다. (ROS 2)
 이것은 URDF 파일 생성에 대한 튜토리얼의 일부이며 아래 링크에서 확인할 수 있습니다:
 
+
+
+
 유튜브:
 [![예를 들어 동영상 참조](https://img.youtube.com/vi/CwdbsvcpOHM/0.jpg) )(https://youtu.be/CwdbsvcpOHM) )
 
 블로그 게시물:
 [http://culatedrobotics.xyz/ready-for-ros-7-urdf/](http://culatedrobotics.xyz/ready-for-ros-7-urdf/)
+
+
+
 
 ## 실행 방법
 1. 콜콘으로 패키지를 만듭니다.
