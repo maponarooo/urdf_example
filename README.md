@@ -6,11 +6,6 @@
 
 
 
-
-
-
-
-
 유튜브:
 [![예를 들어 동영상 참조](https://img.youtube.com/vi/CwdbsvcpOHM/0.jpg) )(https://youtu.be/CwdbsvcpOHM) )
 
